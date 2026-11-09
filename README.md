@@ -1,2 +1,2 @@
 # Pemanah-Cilik-AR
-Interactive Augmented Reality Archery Learning Game.
+Permainan Augmented Reality (AR) yang menguji anda tentang Kefahaman Solat.
